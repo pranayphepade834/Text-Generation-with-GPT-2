@@ -1,7 +1,7 @@
 # ============================================
 # 🌟 GPT-2 Text Generation Project
 # Prodigy Infotech Internship Task (Final Version)
-# By: [Your Name]
+# By: [Pranay Phepade]
 # ============================================
 
 # 🧩 STEP 1 — Install all dependencies (fixed version)
